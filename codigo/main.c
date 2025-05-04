@@ -1,0 +1,1 @@
+// pseudocódigo ou função simples
