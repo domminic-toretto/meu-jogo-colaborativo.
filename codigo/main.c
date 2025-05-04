@@ -1,2 +1,6 @@
-// pseudocódigo ou função simples
-// Função de iniciar o jogo
+#include <stdio.h>
+
+int main() {
+    printf("Jogo iniciado. Jalinkan está pronto!\n");
+    return 0;
+}
